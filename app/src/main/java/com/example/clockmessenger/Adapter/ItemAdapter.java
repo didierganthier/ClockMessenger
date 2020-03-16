@@ -13,7 +13,6 @@ import com.example.clockmessenger.Model.Item;
 import com.example.clockmessenger.R;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ViewHolder>
 {
